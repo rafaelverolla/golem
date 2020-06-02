@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="file://C:\Users\rafael\Documents\Publii\sites\golem\preview/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://rafaelverolla.github.io/golem/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>file://C:\Users\rafael\Documents\Publii\sites\golem\preview/</loc>
+<loc>https://rafaelverolla.github.io/golem/</loc>
 </url>
 <url>
-<loc>file://C:\Users\rafael\Documents\Publii\sites\golem\preview/dsfdfsd.html</loc>
+<loc>https://rafaelverolla.github.io/golem/dsfdfsd.html</loc>
 <lastmod>2020-06-01T18:27:49+02:00</lastmod>
 </url>
 <url>
-<loc>file://C:\Users\rafael\Documents\Publii\sites\golem\preview/mago-a-ascencao-libia.html</loc>
-<lastmod>2020-06-02T11:23:49+02:00</lastmod>
+<loc>https://rafaelverolla.github.io/golem/mago-a-ascencao-libia.html</loc>
+<lastmod>2020-06-02T11:31:58+02:00</lastmod>
 </url>
 <url>
-<loc>file://C:\Users\rafael\Documents\Publii\sites\golem\preview/page/2/</loc>
+<loc>https://rafaelverolla.github.io/golem/page/2/</loc>
 </url>
 <url>
-<loc>file://C:\Users\rafael\Documents\Publii\sites\golem\preview/page/3/</loc>
+<loc>https://rafaelverolla.github.io/golem/page/3/</loc>
 </url>
 <url>
-<loc>file://C:\Users\rafael\Documents\Publii\sites\golem\preview/page/4/</loc>
+<loc>https://rafaelverolla.github.io/golem/page/4/</loc>
 </url>
 <url>
-<loc>file://C:\Users\rafael\Documents\Publii\sites\golem\preview/world-of-darkness.html</loc>
+<loc>https://rafaelverolla.github.io/golem/world-of-darkness.html</loc>
 <lastmod>2020-06-01T22:24:30+02:00</lastmod>
 </url>
 <url>
-<loc>file://C:\Users\rafael\Documents\Publii\sites\golem\preview/zxczxczxcz.html</loc>
-<lastmod>2020-06-01T18:23:25+02:00</lastmod>
+<loc>https://rafaelverolla.github.io/golem/zxczxczxcz.html</loc>
+<lastmod>2020-06-02T11:33:11+02:00</lastmod>
 </url>
 </urlset>

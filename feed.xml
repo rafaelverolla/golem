@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Golem</title>
-    <link href="file://C:\Users\rafael\Documents\Publii\sites\golem\preview/feed.xml" rel="self" />
-    <link href="file://C:\Users\rafael\Documents\Publii\sites\golem\preview" />
-    <updated>2020-06-02T11:23:58+02:00</updated>
+    <link href="https://rafaelverolla.github.io/golem/feed.xml" rel="self" />
+    <link href="https://rafaelverolla.github.io/golem" />
+    <updated>2020-06-02T16:07:19+02:00</updated>
     <author>
         <name>rafael</name>
     </author>
-    <id>file://C:\Users\rafael\Documents\Publii\sites\golem\preview</id>
+    <id>https://rafaelverolla.github.io/golem</id>
 
     <entry>
         <title>Mago: A Ascenção, Líbia</title>
         <author>
             <name>rafael</name>
         </author>
-        <link href="file://C:\Users\rafael\Documents\Publii\sites\golem\preview/mago-a-ascencao-libia.html"/>
-        <id>file://C:\Users\rafael\Documents\Publii\sites\golem\preview/mago-a-ascencao-libia.html</id>
+        <link href="https://rafaelverolla.github.io/golem/mago-a-ascencao-libia.html"/>
+        <id>https://rafaelverolla.github.io/golem/mago-a-ascencao-libia.html</id>
 
-        <updated>2020-06-02T11:23:49+02:00</updated>
+        <updated>2020-06-02T11:31:58+02:00</updated>
             <summary>
                 <![CDATA[
                     Uma crônica para Mago: A Ascenção, edição de 20 anos, focada na Líbia, mais especificamente em Trípoli, durante a guerra civil que começou com a destituição de Gaddafi e infelizmente continua até o momento. O foco da crônica são The Disparates, conhecidos como Ofícios na&hellip;
@@ -27,12 +27,26 @@
             <![CDATA[
                 <p>Uma crônica para Mago: A Ascenção, edição de 20 anos, focada na Líbia, mais especificamente em Trípoli, durante a guerra civil que começou com a destituição de Gaddafi e infelizmente continua até o momento.</p>
 <div class="post__toc">
-<h3>Índice</h3>
+<h3>Table of Contents</h3>
 <ul>
 <li><a href="#mcetoc_1e9q3rusk66">Personagens</a></li>
 <li><a href="#mcetoc_1e9q3rusl67">Mood</a></li>
-<li><a href="#mcetoc_1e9q3rusl68">Trípoli</a></li>
+<li><a href="#mcetoc_1e9q3rusl68">Contexto histórico</a></li>
 <li><a href="#mcetoc_1e9q3rusl69">O Deserto</a></li>
+<li><a href="#mcetoc_1e9q5p5mgf4">Trípoli</a>
+<ul>
+<li><a href="#mcetoc_1e9q5p5mgf5">Capela Hermética Bonisagus</a>
+<ul>
+<li><a href="#mcetoc_1e9q5p5mgf6">Membros</a></li>
+</ul>
+</li>
+<li><a href="#mcetoc_1e9q5p5mgf7">Capela Batini</a>
+<ul>
+<li><a href="#mcetoc_1e9q5qb4vfa">Batini locais</a></li>
+</ul>
+</li>
+</ul>
+</li>
 </ul>
 </div>
 <h2 id="mcetoc_1e9q3rusk66">Personagens</h2>
@@ -69,9 +83,9 @@
 <p>O deserto rochoso é uma zona de realidade alternativa, em que toda magia que não seja a tradicional beduína é considerada vulgar. Celulares não pegam sinal, areia entra dentro dos computadores impedindo o seu funcionamento, até mesmo mudanças genéticas tecnocratas não prosperam nesse ambiente de alto calor e baixa umidade.</p>
 <p>As dunas, porém, fazer o deserto rochoso parecer um local amigável. São zonas absolutamente instáveis, onde em um momento toda a magia pode ser coincidente, e em outro, toda vulgar. O Tempo também se comporta de maneira errática, podendo passar mais veloz ou mais lentamente, e em alguns casos, até mesmo voltar para trás.</p>
 <p>Djinn existem aos montes nesses locais. Grandes e prósperas cidades Djinn se escondem entre tempestade de areia e miragens, ou aparecem despudoradamente com seu brilho dourado fácilmente visto a dezenas de quilômetros de distância.</p>
-<h2>Trípoli</h2>
+<h2 id="mcetoc_1e9q5p5mgf4">Trípoli</h2>
 <p>Uma grande e moderna cidade, praticamente intocada pela guerra. Os lugares de interesse para a crônica são</p>
-<h3>Capela Hermética Bonisagus</h3>
+<h3 id="mcetoc_1e9q5p5mgf5">Capela Hermética Bonisagus</h3>
 <p>É uma capela hermetica, mas aberta a todas as tradições e aos disparates amigos (principalmente batini e taftani). Nem sempre foi asim. A abertura dessa capela se deu 10 anos atras, quando Magus Idder bani Bonisagus,  se tornou o mestre de uma das mais antigas Capelas da Ordem. Talvez por medo, talvez por idealismo, ele decidiu que o isolamento não era mais o caminho correto, e abriu as portas da Capela.</p>
 <p>O local real dela é um misterio que só o Grão Mestre da Capela conhece, mas sua entrada se localiza no Portão de Marco Aurelio, no centro de Tripoli, perto de Medina. Quem tem autorização e deseja entrar na Capela, basta cruzar o portão. ( Efeito de Mente 2, Vida 4, Correspondência 4, 20 successos, permanente).</p>
 <p>Ao cruzar o portão, o convidado se vê diante a um grande templo em estilo romano, quadrado, com um jardim central. Ao redor do templo existem 9 construções menores, circulares, dispostas equidistantes entre si e o templo central.</p>
@@ -90,17 +104,17 @@
 </ol>
 <p>Na capela vivem cerca de 18 pessoas, permanentemente: 3 herméticos despertos e 15 feiticeiros.</p>
 <p>A estrutura do lugar é claramente feita para muito mais gente, centenas ao menos. Assim todas as estruturas passam uma sensação de isolamento, pois parecem estar sempre vazios.</p>
-<h4>Membros:</h4>
+<h4 id="mcetoc_1e9q5p5mgf6">Membros</h4>
 <p>Magus Idder bani Bonisagus: Aparência de 40 anos,  o atual Mestre da Capela. È um gordinho bem humorado, de forte traços bérberes e sotaque tripolitano. Contente com uma vida de estudo e zelo pela capela. Tem pouco interesse no andamento da guerra, porém auxilia os Batini sempre que possível. Pessoalmente desgosta da influência estrangeira na Líbia. </p>
 <p>Magus Alauddin bani Tytalus: Aparência de 30 anos. Marroquino, com forte sotaque,  boa forma fisica, reservado. Veio para cá para fugir dos efeitos da guerra Massassa. Ainda possui um ódio visceral contra vampiros.</p>
 <p>Magus Selena bani Verditius: Aparência de 20 anos, Muito bela, loira e atlética, italiana, trabalha no Centro de Cultura Italiana dando aulas. Amigável e aventureira, apaixonada na Ars Coligationis (correspondência), e estuda a capela intensamente. Fascinada pelo deserto. ( "Você sabia que ainda no deserto o consenso não conseguiu petrificar as distancias? Acredito que o deserto deva ser quase como que um Reino para a Ars Coligationis, distancias são fácilmente manipula....").</p>
 <p>Zahir bani Bonisagus: Idade aparente 70 anos, real pelo menos 100. Um feiticeiro bem idoso e sábio, respeitado imensamente por Magus Idder. Possui um conhecimento enorme sobre as artes herméticas e sobre o templo. Raramente sai da capela, porém tem um tenebroso segredo: há 10 anos é carniçal de um vampiro local, e ultimamente anda traficando material arcano da capela para seu mestre.</p>
-<h3>Capela Batini</h3>
+<h3 id="mcetoc_1e9q5p5mgf7">Capela Batini</h3>
 <p>Madrasa (<a href="https://goo.gl/maps/pcxfGYC4B2v">https://goo.gl/maps/pcxfGYC4B2v</a>)</p>
 <p>Um grande centro de educação islâmica antes, hoje é, por fora, apenas uma mesquita e uma escola de etiqueta e boas maneiras. Porém na realidade é o centro de poder dos Batini no norte da líbia.</p>
 <p>Apenas 3 Batini se fazem públicos, mas com certeza mais existem na capela, ocultando sua existência.</p>
 <p>O hotel “Belvedere” é outro centro de poder dos Batini, existindo lá um pequeno nodo ( 1 quint/semana), e é sempre o local ao qual os Batini escolhem para se reunirem com forasteiros, quando estritamente necessário.</p>
-<p>Batini locais:</p>
+<h4 id="mcetoc_1e9q5qb4vfa">Batini locais</h4>
 <p>Mohammed Al-Tarhouni: Um homem de uns 30 e poucos anos, tem a aparência de um idoso obeso, careca e bigodudo. Frequentemente é o recepcionista do Hotel. É um mestre em Vida. ( vida 4, prim 2, tempo 1, corr 2, arete 4). Não gosta muito de politica, e mantêm distância como pode, tentando sempre manter-se irrelevante, para poder continuar seus estudos em paz.</p>
 <p>Ali Elmusrati: Idade real e aparente de pouco mais do que 20 anos, esse Batini é aprendiz de Mohammed. Idealista pan-arabe, vê com suspeita estrangeiros. Seu ponto fraco são as mulheres, é inexperiente e inseguro nesse ponto. ( Vida 1, prim1, tempo 1 arete 1)</p>
 <p>Ghada Ali: Cerca de 30 e poucos anos, reais e aparentes, nascida na França, foi para a libia, terra de sua família, após despertar. Ardente islâmica. (Corr 3, prim3, mat2, arete3). É secretamente noiva de um homem árabe na França, que a espera para se casarem</p>
@@ -112,8 +126,8 @@
         <author>
             <name>rafael</name>
         </author>
-        <link href="file://C:\Users\rafael\Documents\Publii\sites\golem\preview/world-of-darkness.html"/>
-        <id>file://C:\Users\rafael\Documents\Publii\sites\golem\preview/world-of-darkness.html</id>
+        <link href="https://rafaelverolla.github.io/golem/world-of-darkness.html"/>
+        <id>https://rafaelverolla.github.io/golem/world-of-darkness.html</id>
 
         <updated>2020-06-01T22:24:30+02:00</updated>
             <summary>
@@ -132,10 +146,10 @@
         <author>
             <name>rafael</name>
         </author>
-        <link href="file://C:\Users\rafael\Documents\Publii\sites\golem\preview/zxczxczxcz.html"/>
-        <id>file://C:\Users\rafael\Documents\Publii\sites\golem\preview/zxczxczxcz.html</id>
+        <link href="https://rafaelverolla.github.io/golem/zxczxczxcz.html"/>
+        <id>https://rafaelverolla.github.io/golem/zxczxczxcz.html</id>
 
-        <updated>2020-06-01T18:23:25+02:00</updated>
+        <updated>2020-06-02T11:33:11+02:00</updated>
             <summary>
                 <![CDATA[
                     Bem vindos ao Golem. Esse site é um arquivo virtual com uma grande variedade de material criado para RPG. Personagens, cenários, reviews, opiniões, house rules, tem de tudo um pouco. Ao invés de deixar esse material mofar no fundo do hd, colocamos ele aqui a&hellip;
@@ -155,8 +169,8 @@
         <author>
             <name>rafael</name>
         </author>
-        <link href="file://C:\Users\rafael\Documents\Publii\sites\golem\preview/dsfdfsd.html"/>
-        <id>file://C:\Users\rafael\Documents\Publii\sites\golem\preview/dsfdfsd.html</id>
+        <link href="https://rafaelverolla.github.io/golem/dsfdfsd.html"/>
+        <id>https://rafaelverolla.github.io/golem/dsfdfsd.html</id>
 
         <updated>2020-06-01T18:27:49+02:00</updated>
             <summary>
