@@ -3,12 +3,54 @@
     <title>Golem</title>
     <link href="https://rafaelverolla.github.io/golem/feed.xml" rel="self" />
     <link href="https://rafaelverolla.github.io/golem" />
-    <updated>2020-06-03T09:55:01+02:00</updated>
+    <updated>2020-06-03T10:53:49+02:00</updated>
     <author>
         <name>rafael</name>
     </author>
     <id>https://rafaelverolla.github.io/golem</id>
 
+    <entry>
+        <title>Recursos: GURPS</title>
+        <author>
+            <name>rafael</name>
+        </author>
+        <link href="https://rafaelverolla.github.io/golem/recursos-gurps.html"/>
+        <id>https://rafaelverolla.github.io/golem/recursos-gurps.html</id>
+
+        <updated>2020-06-03T10:52:04+02:00</updated>
+            <summary>
+                <![CDATA[
+                    GURPS Character Sheet: Um software fenomenal para criar fichas de GURPS. Gratuito e open source, eu uso sempre, seja quando sou GM ou jogador. A versão básica tem já vários livros dentro, mas você pode adicionar manualmente novas bibliotecas. Ele organiza de maneira simples tabelas&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><a href="https://gurpscharactersheet.com">GURPS Character Sheet:</a> Um software fenomenal para criar fichas de GURPS. Gratuito e open source, eu uso sempre, seja quando sou GM ou jogador. A versão básica tem já vários livros dentro, mas você pode adicionar manualmente novas bibliotecas. Ele organiza de maneira simples tabelas de vantagens, desvantagens e equipamentos, além de permitir criar templates facilmente. Não consigo recomendar demais esse software, torna a tarefa de fazer fichas em GURPS simples e direta. Em inglês.</p>
+<p><a href="http://www.gurpscalculator.com/">GURPS Calculator:</a> Um site bem útil, principalmente para o GM. Ferramenta para procurar em todos os índices dos livros do sistema, muitas fichas de personagens e monstros, ficha automatizada, um combat tracker que facilita bastante, um gm board que te permite ver todas as skills e atributos dos personagens de uma vez e muitas outras coisas úteis. Em inglês.</p>
+<p><a href="https://www.facebook.com/groups/GURPS.BR">GURPS Group Brasil: </a>Um excelente grupo do facebook sobre GURPS, e só sobre GURPS. Pesadamente moderado, não fale de nada não relacionado ao assunto. Nem memes são aceitos. Isso torna o grupo um dos lugares mais interessantes para conversar e tirar dúvidas sobre o sistema, além de ser fácil para achar novos jogadores.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Recursos: WoD</title>
+        <author>
+            <name>rafael</name>
+        </author>
+        <link href="https://rafaelverolla.github.io/golem/recursos-wod.html"/>
+        <id>https://rafaelverolla.github.io/golem/recursos-wod.html</id>
+
+        <updated>2020-06-03T10:17:58+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Mr. Gone Sheets: Sem dúvida o melhor repositório de fichas para o WoD e CotD. Em inglês.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><a href="http://mrgone.rocksolidshells.com">Mr. Gone Sheets</a>: Sem dúvida o melhor repositório de fichas para o WoD e CotD. Em inglês.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Albufeira</title>
         <author>
@@ -197,29 +239,6 @@
         <content type="html">
             <![CDATA[
                 <p>Composto de cinco jogos clássicos ( Mago: A Ascenção, Fada: O Sonhar, Lobisomem: O Apocalipse, Wraith: The Oblivon  e Vampiro: A Máscara), e vários outros que apareceram em edições posteriores, esse cenário dominou a cenário de rpg nacional no fim dos anos 90 até muito pouco tempo atrás, sendo por um breve tempo até mesmo mais popular do que o imbatível D&amp;D.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Home</title>
-        <author>
-            <name>rafael</name>
-        </author>
-        <link href="https://rafaelverolla.github.io/golem/zxczxczxcz.html"/>
-        <id>https://rafaelverolla.github.io/golem/zxczxczxcz.html</id>
-
-        <updated>2020-06-02T11:33:11+02:00</updated>
-            <summary>
-                <![CDATA[
-                    Bem vindos ao Golem. Esse site é um arquivo virtual com uma grande variedade de material criado para RPG. Personagens, cenários, reviews, opiniões, house rules, tem de tudo um pouco. Ao invés de deixar esse material mofar no fundo do hd, colocamos ele aqui a&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Bem vindos ao Golem.</p>
-<p>Esse site é um arquivo virtual com uma grande variedade de material criado para RPG. Personagens, cenários, reviews, opiniões, house rules, tem de tudo um pouco.</p>
-<p>Ao invés de deixar esse material mofar no fundo do hd, colocamos ele aqui a disposição da comunidade, com a esperança que esses personagens e mundos possam viver novamente na sua mente e nos seus jogos.</p>
-<p>Futuramente é o nosso desejo colocar material feito de maneira mais profissional. Cenários e aventuras feita em um sistema OGL que podem ser usados independentemente, então, se você se sentiu inspirado pelo material já disponível, recomendamos que deem uma olhada no Golem de vez em quando, à medida que adicinaremos mais e mais material.</p>
             ]]>
         </content>
     </entry>
