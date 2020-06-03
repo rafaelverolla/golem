@@ -3,12 +3,71 @@
     <title>Golem</title>
     <link href="https://rafaelverolla.github.io/golem/feed.xml" rel="self" />
     <link href="https://rafaelverolla.github.io/golem" />
-    <updated>2020-06-02T16:08:33+02:00</updated>
+    <updated>2020-06-03T09:55:01+02:00</updated>
     <author>
         <name>rafael</name>
     </author>
     <id>https://rafaelverolla.github.io/golem</id>
 
+    <entry>
+        <title>Albufeira</title>
+        <author>
+            <name>rafael</name>
+        </author>
+        <link href="https://rafaelverolla.github.io/golem/albufeira.html"/>
+        <id>https://rafaelverolla.github.io/golem/albufeira.html</id>
+
+        <updated>2020-06-02T18:20:06+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Albufeira é uma cidade inspirada em Yrth, mas não nos preocupamos muito em manter a compatibilidade completa com o cenário, especialmente Caithness e região, que são substituidas por uma região de grandes florestas tropicais e banhada por um rio extremamente largo, chamado simplesmente de Rio&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Albufeira é uma cidade inspirada em Yrth, mas não nos preocupamos muito em manter a compatibilidade completa com o cenário, especialmente Caithness e região, que são substituidas por uma região de grandes florestas tropicais e banhada por um rio extremamente largo, chamado simplesmente de Rio Grande. É possível para incluir Albufeira em uma aventura já corrente em Yrth, mas com várias adaptações. Mas o cenário é amplo o suficiente que funciona de maneira independente.</p>
+<p>É um toque de Brasil e America latina em Yrth: um cenário medieval que parecerá muito familiar para os brasileiros, sem deixar de lado todo o arcabouço de fantasia medieval de Yrth.</p>
+<h2>Contexto histórico</h2>
+<p>O cataclisma transportou um grande número de exploradores portugueses e espanhois para a Grande Floresta a sul da cidade anã de Thranel e a noroeste da cidade humana de Nova Jerusálem, durante o fim do século 15. O cataclisma também transportou um grande número de indígenas da região.</p>
+<p>Esses exploradores conseguiram sobreviver e prosperar em um amontoado de ilhas fluviais desabitadas. Com o passar dos séculos, eles fizeram contato com o reino de mégalos no foz do rio e com os reinos anões na sua nascente, e começaram a operar o lucrativo comércio entre esses dois povos, mantendo sua indepêndencia.</p>
+<p>Eles também acabaram se metendo em guerra com os elfos negros que habitam a floresta, assim como contra os descendentes dos povos indigenas que foram transportados para a região.</p>
+<p>Hoje, Albufeira é rica e próspera, sua economia inteiramente baseada no comércio entre os Anões e Mégalos, alêm das "especiarias do sertão" e produtos das fazendas nas margens do rio.</p>
+<h2>O Povo de Albufeira</h2>
+<p>Os albuferenses falam uma língua que é uma mistura entre o Português e o Espanhol, com muitas palavras emprestadas da língua anã de Zarak e do Anglais, as línguas de seus clientes. Vocabulário elfico também está presente, principalmente para palavras que se referem aos seres que habitam a selva, chamada de sertão pelos albuferenses.</p>
+<p>A grande maioria dos habitantes da cidade são humanos. Existe uma significativa presença de goblins, geralmente nas classes mais baixas da cidade. Existe também uma população anã expressiva na cidade, trabalhando como representante das guildas anãs, na construção dos barcos e até mesmo na tripulação.</p>
+<p>Existe uma significativa população judia na cidade, que vive fechada em seu gueto e tem uma série de restrições ao seus direitos.</p>
+<p>Politicamente a cidade é governada por um Vicerrei que é eleito pelo senado da cidade, que, por sua vez, é composto pelos nobres e mercadores. Para se tornar um membro do senado se deve herdar o cargo ou comprá-lo por leilão.</p>
+<p>O senado não possui poderes legais além de eleger o Vicerrei, é apenas o centro onde a elite da cidade se reuni para discutir, e é composto apenas de cristãos.</p>
+<p>Os grupos políticos mais importantes e ativos na cidade são:</p>
+<p>Fidalgos</p>
+<p>Grupo dos nobres mais tradicionais da cidade, que desejam mais poderes para os nobres e uma organização mais parecida com o resto de Megalos, nos moldes de sociedades medievais tradicionais. Lider: Marquesa Leonora Sales Costa.</p>
+<p>Burgueses</p>
+<p>Grupo dos mercadores proeminentes, desejam manter o status quo ou diminuir sempre que possível o poder dos Fidalgos. Apesar de terem as bases de seus poderes no comércio, muitos tem titulo de nobreza, geralmente comprada. Líder: Senhoria Augusto Albuquerque.</p>
+<p>Frente Mariana</p>
+<p>Um grupo de plebeus trabalhadores e pequenos comerciantes que luta por uma representação direta no Senado. Eles tem moderada simpatia entre as classes mais pobres, obtida através de várias ações de caridade. São tolerados pelas autoridades, porque apesar de terem uma agenda de reforma, eles evitam a proliferação de forças politicas mais radicais entre os pobres.</p>
+<h2>A Cidade de Albufeira</h2>
+<figure class="post__image"><img src="https://rafaelverolla.github.io/golem/media/posts/5/MAPA2.png" alt="" width="1700" height="2338"></figure>
+<p>Lugares de Interesse:</p>
+<p>1. Mosteiro Santo Agostinho</p>
+<p>Localizado em uma das ilhas externas da cidade, esse mosteiro abriga cerca de 200 monges que se dedicam ao estudo das obras de Deus.</p>
+<p>2. Arsenal</p>
+<p>A maior doca da cidade, lugar de construção das principais embarcações. Um dos lugares mais bem guardados de todo o continente.</p>
+<p>4. Gueto Judeu</p>
+<p>O mais rico gueto da cidade, sendo um lugar bem frequentado por gentios, devido a sua abundância de lojas e mão de obra especializada, além, claro, de bancos. Os judeus encontram em Albufeira um lugar bem tolerante para os padrões medievais. Não significa que não existe um antissemitismo a níveis que seriam considerados escandalosos para padrões modernos, mas os judeus que seguem as regras são deixados em paz.</p>
+<p>Empório de Maravilhas do Doutor Manuel, o Judeu</p>
+<p>Localizada no gueto Judeu, é a maior loja de itens mágicos da cidade.O seu proprietário é Doutor Manuel Oliveira, o judeu mais poderoso e proeminente de Albufeira. Dizem que é mais rico que a maioria dos Burgueses do Senado, mas por ser judeu é impedido de participar ativamente da vida política da cidade.</p>
+<p>8. Cemitério Santo Estevão</p>
+<p>Localizado em uma ilha externa artificial, é o maior cemitério cristão da cidade.</p>
+<p>9. Masmorra</p>
+<p>Onde os criminosos são colocados, uma das poucas construções de pedra da cidade, tendo sido reconstruído assim depois que um grande incêndio destruiu a antiga masmorra de madeira, matando centenas de criminosos.</p>
+<p>Feira de São Pedro</p>
+<p>A maior feira da cidade, permanentemente aberta. Se vende comidas, armas,</p>
+<p>armaduras, roupas, enfim, tudo, inclusive coisas ilegais. Se localiza na principal praça da cidade, na frente do palácio Vicerreal.</p>
+<p>Gueto Goblin</p>
+<p>Uma das regiões mais densamente populadas e pobres de Albufeira, o gueto é a moradia designada dos goblins. Apesar de existir algumas famílias goblins burguesas, não é a realidade para a grande maioria da raça, que é marginalizada. Todo tipo de atividade ilegal prospera pelo gueto, de prostituição á tráfico de poções ilícitas.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Mago: A Ascenção, Líbia</title>
         <author>
@@ -17,7 +76,7 @@
         <link href="https://rafaelverolla.github.io/golem/mago-a-ascencao-libia.html"/>
         <id>https://rafaelverolla.github.io/golem/mago-a-ascencao-libia.html</id>
 
-        <updated>2020-06-02T11:31:58+02:00</updated>
+        <updated>2020-06-03T09:54:10+02:00</updated>
             <summary>
                 <![CDATA[
                     Uma crônica para Mago: A Ascenção, edição de 20 anos, focada na Líbia, mais especificamente em Trípoli, durante a guerra civil que começou com a destituição de Gaddafi e infelizmente continua até o momento. O foco da crônica são The Disparates, conhecidos como Ofícios na&hellip;
@@ -65,7 +124,7 @@
 <li>Guerra civil como contexto, não foco: Talvez seus PJs não estejam interessados nos jogos mesquinhos dos não-despertos. Tripóli, mesmo durante essa guerra, é uma excelente base de operações para investigar os segredos do Deserto, como os herméticos bem sabem. Uma crônica assim é aquela que tem a melhor possibilidade de usar magos de facções diferentes que convivem em relativa paz.</li>
 </ul>
 <h2 id="mcetoc_1e9q3rusl68">Contexto histórico</h2>
-<p>Uma grande cidade localizada no norte da Líbia, na costa do mediterrâneo. Uma cidade extremamente antiga, fundada pelos fenícios 7 séculos antes de Cristo como Cartago. Foi completamente destruída por Roma depois das Guerra Púnicas, renascendo como Regio Syrtica, e depois, Regio Tripoli.</p>
+<p>Uma grande cidade localizada no norte da Líbia, na costa do mediterrâneo, fundada 7 séculos antes de Cristo por gregos, e dominada pelos romanos no século 2 antes de Cristo.</p>
 <p>Pouco tempo após a queda do império romano passou ao poder dos Islâmicos, que dominaram a cidade desde então.</p>
 <p>No passado próximo, Trípoli é a capital da Líbia, um país relativamente próspero durante o comando de Qaddafi, um sanguinário ditador, que mantinha a ordem e o progresso no país usando de medo e violência desmedidas.</p>
 <p>Em 2011, com apoio logístico e financeiro de uma coalisão ocidental chefiada pela França,  Gaddafi foi capturado e morto por membros do Conselho Nacional de Transição.</p>
@@ -87,7 +146,7 @@
 <p>Uma grande e moderna cidade, praticamente intocada pela guerra. Os lugares de interesse para a crônica são</p>
 <h3 id="mcetoc_1e9q5p5mgf5">Capela Hermética Bonisagus</h3>
 <p>É uma capela hermetica, mas aberta a todas as tradições e aos disparates amigos (principalmente batini e taftani). Nem sempre foi asim. A abertura dessa capela se deu 10 anos atras, quando Magus Idder bani Bonisagus,  se tornou o mestre de uma das mais antigas Capelas da Ordem. Talvez por medo, talvez por idealismo, ele decidiu que o isolamento não era mais o caminho correto, e abriu as portas da Capela.</p>
-<p>O local real dela é um misterio que só o Grão Mestre da Capela conhece, mas sua entrada se localiza no Portão de Marco Aurelio, no centro de Tripoli, perto de Medina. Quem tem autorização e deseja entrar na Capela, basta cruzar o portão. ( Efeito de Mente 2, Vida 4, Correspondência 4, 20 successos, permanente).</p>
+<p>O local real dela é um misterio que só o Grão Mestre da Capela conhece, mas sua entrada se localiza no <a href="https://goo.gl/maps/Sygkq4jFiea9ZUzC9" target="_blank" rel="noopener noreferrer">Portão de Marco Aurelio</a>, no centro de Tripoli, perto de Medina. Quem tem autorização e deseja entrar na Capela, basta cruzar o portão. ( Efeito de Mente 2, Vida 4, Correspondência 4, 20 successos, permanente).</p>
 <p>Ao cruzar o portão, o convidado se vê diante a um grande templo em estilo romano, quadrado, com um jardim central. Ao redor do templo existem 9 construções menores, circulares, dispostas equidistantes entre si e o templo central.</p>
 <p>As nove estruturas são idênticas por fora, mas por dentro são diferentes e tem funções específicas, sendo muito maiores por dentro do que por fora, outro efeito permanente de correspondência.</p>
 <p>As estruturas são:</p>
