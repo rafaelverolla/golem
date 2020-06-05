@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Golem</title>
-    <link href="https://rafaelverolla.github.io/golem/feed.xml" rel="self" />
-    <link href="https://rafaelverolla.github.io/golem" />
-    <updated>2020-06-05T16:59:38+02:00</updated>
+    <link href="https://www.golem.net.br/feed.xml" rel="self" />
+    <link href="https://www.golem.net.br" />
+    <updated>2020-06-05T17:04:05+02:00</updated>
     <author>
         <name>rafael</name>
     </author>
-    <id>https://rafaelverolla.github.io/golem</id>
+    <id>https://www.golem.net.br</id>
 
     <entry>
         <title>Rage Across Pindorama</title>
         <author>
             <name>rafael</name>
         </author>
-        <link href="https://rafaelverolla.github.io/golem/rage-across-pindorama.html"/>
-        <id>https://rafaelverolla.github.io/golem/rage-across-pindorama.html</id>
+        <link href="https://www.golem.net.br/rage-across-pindorama.html"/>
+        <id>https://www.golem.net.br/rage-across-pindorama.html</id>
 
         <updated>2020-06-03T19:31:38+02:00</updated>
             <summary>
@@ -43,8 +43,8 @@
         <author>
             <name>rafael</name>
         </author>
-        <link href="https://rafaelverolla.github.io/golem/recursos-gurps.html"/>
-        <id>https://rafaelverolla.github.io/golem/recursos-gurps.html</id>
+        <link href="https://www.golem.net.br/recursos-gurps.html"/>
+        <id>https://www.golem.net.br/recursos-gurps.html</id>
 
         <updated>2020-06-03T10:52:04+02:00</updated>
             <summary>
@@ -65,8 +65,8 @@
         <author>
             <name>rafael</name>
         </author>
-        <link href="https://rafaelverolla.github.io/golem/recursos-wod.html"/>
-        <id>https://rafaelverolla.github.io/golem/recursos-wod.html</id>
+        <link href="https://www.golem.net.br/recursos-wod.html"/>
+        <id>https://www.golem.net.br/recursos-wod.html</id>
 
         <updated>2020-06-03T10:17:58+02:00</updated>
             <summary>
@@ -85,8 +85,8 @@
         <author>
             <name>rafael</name>
         </author>
-        <link href="https://rafaelverolla.github.io/golem/albufeira.html"/>
-        <id>https://rafaelverolla.github.io/golem/albufeira.html</id>
+        <link href="https://www.golem.net.br/albufeira.html"/>
+        <id>https://www.golem.net.br/albufeira.html</id>
 
         <updated>2020-06-05T16:58:33+02:00</updated>
             <summary>
@@ -111,7 +111,7 @@
 </div>
 <p>Albufeira é uma cidade inspirada em Yrth, mas não nos preocupamos muito em manter a compatibilidade completa com o cenário, especialmente Caithness e região, que são substituidas por uma região de grandes florestas tropicais e banhada por um rio extremamente largo, chamado simplesmente de Rio Grande. É possível para incluir Albufeira em uma aventura já corrente em Yrth, mas com várias adaptações. Mas o cenário é amplo o suficiente que funciona de maneira independente.</p>
 <p>É um toque de Brasil e America latina em Yrth: um cenário medieval que parecerá muito familiar para os brasileiros, sem deixar de lado todo o arcabouço de fantasia medieval de Yrth.</p>
-<figure class="post__image"><img src="https://rafaelverolla.github.io/golem/media/posts/5/New-Bitmap-Image.bmp" alt="" width="1164" height="678"></figure>
+<figure class="post__image"><img src="https://www.golem.net.br/media/posts/5/New-Bitmap-Image.bmp" alt="" width="1164" height="678"></figure>
 <h2 id="mcetoc_1ea2fp6uifn">Contexto histórico</h2>
 <p>O cataclisma transportou um grande número de exploradores portugueses e espanhois para a Grande Floresta a sul da cidade anã de Thranel e a noroeste da cidade humana de Nova Jerusálem, durante o fim do século 15. O cataclisma também transportou um grande número de indígenas da região.</p>
 <p>Esses exploradores conseguiram sobreviver e prosperar em um amontoado de ilhas fluviais desabitadas. Com o passar dos séculos, eles fizeram contato com o reino de mégalos no foz do rio e com os reinos anões na sua nascente, e começaram a operar o lucrativo comércio entre esses dois povos, mantendo sua indepêndencia.</p>
@@ -140,7 +140,7 @@
 <p>A escravidão é tradicionalmente repudiada em Albufeira, uma vez que escravos não consomem, e o consumo é fundamental para uma sociedade mercante. Porém a escravidão temporária por dívida ou crime sempre foi aceita. </p>
 <p>Nas grandes fazendas às margens do grande rio, a escravidão de não-humanos e negros da terra se tornou lugar-comum. Utilizando de artimanhas que aumentam a dívida dos escravos de maneira constante, os Fidalgos estão criando uma escravidão racial e perpétua. Esse fato é desconhecido da opinião pública, mas estão surgindo grupos abolicionistas que começam a incomodar os Fidalgos.</p>
 <h2 id="mcetoc_1ea2fp6uifq">A Cidade de Albufeira</h2>
-<figure class="post__image"><img src="https://rafaelverolla.github.io/golem/media/posts/5/MAPA2.png" alt="" width="1700" height="2338"></figure>
+<figure class="post__image"><img src="https://www.golem.net.br/media/posts/5/MAPA2.png" alt="" width="1700" height="2338"></figure>
 <p>Para controlar definitivamente o tráfico do rio, Albufeira colocou enormes correntes que vão de uma margem à outra do rio. Essas correntes impedem qualquer embarcação média ou grande passar pelo rio. No mapa elas são representadas pela linha marrom, que são aquelas permanentes, e pela vermelha, que são levantadas e abaixadas conforme a necessidade.</p>
 <p>Lugares de Interesse:</p>
 <p>1. Mosteiro Santo Agostinho</p>
@@ -161,7 +161,7 @@
 <p>Gueto Goblin</p>
 <p>Uma das regiões mais densamente populadas e pobres de Albufeira, o gueto é a moradia designada dos goblins. Apesar de existir algumas famílias goblins burguesas, não é a realidade para a grande maioria da raça, que é marginalizada. Todo tipo de atividade ilegal prospera pelo gueto, de prostituição á tráfico de poções ilícitas.</p>
 <h2 id="mcetoc_1ea2fp6uifr">Arredores de Albufeira</h2>
-<figure class="post__image"><img src="https://rafaelverolla.github.io/golem/media/posts/5/ARREDORESALBUFEIRA.jpg" alt="" width="989" height="744"></figure>
+<figure class="post__image"><img src="https://www.golem.net.br/media/posts/5/ARREDORESALBUFEIRA.jpg" alt="" width="989" height="744"></figure>
 <p>Os diamantes laranja representam fortes. Os dois fortes mais relevantes são o Forte de São Bartolomeu à oeste e o de São Maximiliano à leste.</p>
 <p>O Forte de São Bartolomeu fica sobre o morro de mesmo nome, e com suas altas torres, conseguem um excelente vista sobre os Sertões e o Rio, conseguindo assim ver ameaças à cidade. O Forte de São Maximiliano fica às margens do Rio Das Almas, um rio amaldiçoado pelas almas dos escravos da fazenda Rio Das Almas.</p>
 <p>Existem várias fazendas nas margens do rio, onde milhares de escravos trabalham, plantando e colhendo cana-de-açúcar. Os Fidalgos obtém escravos a partir de piratas capturados, criminosos condenados em Albufeira e, cada vez mais, de expedições ao sertão em que procuram não-humanos (homens-réptil, orcs e até mesmo elfos) e os negros-da-terra, como são conhecidos os descendentes dos indígenas americanos que habitam os sertões.</p>
@@ -174,8 +174,8 @@
         <author>
             <name>rafael</name>
         </author>
-        <link href="https://rafaelverolla.github.io/golem/mago-a-ascencao-libia.html"/>
-        <id>https://rafaelverolla.github.io/golem/mago-a-ascencao-libia.html</id>
+        <link href="https://www.golem.net.br/mago-a-ascencao-libia.html"/>
+        <id>https://www.golem.net.br/mago-a-ascencao-libia.html</id>
 
         <updated>2020-06-03T09:54:10+02:00</updated>
             <summary>
@@ -286,8 +286,8 @@
         <author>
             <name>rafael</name>
         </author>
-        <link href="https://rafaelverolla.github.io/golem/world-of-darkness.html"/>
-        <id>https://rafaelverolla.github.io/golem/world-of-darkness.html</id>
+        <link href="https://www.golem.net.br/world-of-darkness.html"/>
+        <id>https://www.golem.net.br/world-of-darkness.html</id>
 
         <updated>2020-06-01T22:24:30+02:00</updated>
             <summary>
@@ -306,8 +306,8 @@
         <author>
             <name>rafael</name>
         </author>
-        <link href="https://rafaelverolla.github.io/golem/dsfdfsd.html"/>
-        <id>https://rafaelverolla.github.io/golem/dsfdfsd.html</id>
+        <link href="https://www.golem.net.br/dsfdfsd.html"/>
+        <id>https://www.golem.net.br/dsfdfsd.html</id>
 
         <updated>2020-06-01T18:27:49+02:00</updated>
             <summary>
