@@ -3,12 +3,64 @@
     <title>Golem</title>
     <link href="https://www.golem.net.br/feed.xml" rel="self" />
     <link href="https://www.golem.net.br" />
-    <updated>2020-06-08T10:08:50+02:00</updated>
+    <updated>2020-06-15T11:25:41+02:00</updated>
     <author>
         <name>rafael</name>
     </author>
     <id>https://www.golem.net.br</id>
 
+    <entry>
+        <title>Shadowrun: Amazônia</title>
+        <author>
+            <name>rafael</name>
+        </author>
+        <link href="https://www.golem.net.br/shadowrun-metropole.html"/>
+        <id>https://www.golem.net.br/shadowrun-metropole.html</id>
+
+        <updated>2020-06-14T10:38:41+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Quando o grande dragão em plumado Hualpa surgiu, ele uniu os povos despertos da floresta amazônica e região e declarou guerra ao Brasil. Em poucos meses seu exército dotado de grande poder mágico conquistou Manaus, e depois, o resto do Brasil, em 2034. Sua primeira&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Quando o grande dragão em plumado Hualpa surgiu, ele uniu os povos despertos da floresta amazônica e região e declarou guerra ao Brasil. Em poucos meses seu exército dotado de grande poder mágico conquistou Manaus, e depois, o resto do Brasil, em 2034.</p>
+<p>Sua primeira ação foi decretar o fim do Brasil e o começo do país de Amazônia, em que ele é o líder maior. Sua segunda ação foi expulsar todos os brasileiros não nativos para a região Sudeste, mais especificamente para as cidades de São Paulo e Rio De Janeiro. Essas cidades incharam e se fundiram em na maior cidade do mundo, conhecida formalmente como Metrópole, e informalmente como Rio Paulo.</p>
+<figure class="post__image"><img src="https://www.golem.net.br/media/posts/11//Metropole.png" alt="" width="1863" height="866"></figure>
+<p>(clique aqui para uma imagem com melhor definição)</p>
+<p>Essa megalópole tem mais de 200 milhões de habitantes. Se fala principalmente o português brasileiro, mas com as ondas de imigração provocadas pela guerra Amazônia-Aztlan, espanhol é relativamente comum. Com o enriquecimento de Rio Paulo ao longos dos anos, praticamente qualquer nacionalidade tem uma pequena comunidade presente.</p>
+<p>Em 2075 restou pouco das identidades regionais do antigo Brasil, depois de 40 anos de permanente repressão a qualquer simbolo do antigo país. Células terroristas de grupos que querem reformar a antiga nação existem, mas não são levadas à sério e são brutalmente reprimidas pelas forças do governo.</p>
+<p>Amazônia é um dos países do mundo mais abertos em relação a meta-humanos e outros seres sescientes: praticamente todos podem ser considerados cidadões pelo governo. Isso não significa que Rio Paulo é uma terra livre de preconceitos e discriminações, mas a situação aqui é consideravelmente superior à maioria dos outros países, e por isso, se tornou um refúgio para muitas dessas minorias, contribuindo ainda mais para o crescimento da megalópole.</p>
+<p>Em 2075 o país ainda está lambendo as feridas depois da derrota para Aztlan, onde antes existia a nação da Colômbia. Hualpa desde o começo foi um grande expansionista, conquistando inteiramente as nações de venezuela, suriname e guiana, mas foi derrotado pela primeira vez por Atzlan, e desde então, desapareceu da imagem pública.</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Recursos: Shadowrun</title>
+        <author>
+            <name>rafael</name>
+        </author>
+        <link href="https://www.golem.net.br/recursos-shadowrun.html"/>
+        <id>https://www.golem.net.br/recursos-shadowrun.html</id>
+
+        <updated>2020-06-14T13:56:28+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Chummer 5e: um programa para fazer personagens, essencial para diminuir a enorme complexidade que é a criação de personagens no sistema oficial. Tem versão em português do Brasil, basta mudar nas "options". Omae: Se você não pode suar o Chummer por algum motivo, o Omae&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><a href="https://github.com/chummer5a/chummer5a/releases/tag/5.201.0" target="_blank" rel="noopener noreferrer">Chummer 5e:</a> um programa para fazer personagens, essencial para diminuir a enorme complexidade que é a criação de personagens no sistema oficial. Tem versão em português do Brasil, basta mudar nas "options".</p>
+<p><a href="https://heyomae.github.io" target="_blank" rel="noopener noreferrer">Omae</a>: Se você não pode suar o Chummer por algum motivo, o Omae é um gerador baseado no seu browser. Em inglês.</p>
+<p><a href="http://adragon202.no-ip.org/Shadowrun/index.php/Main_Page" target="_blank" rel="noopener noreferrer">Shadowrun Wiki</a>: Um wiki feito por um mestre que estava cansado de ficar procurando tudo nos livros que, eu concordo, poderiam ser organizados de maneira melhor. Muito legal para ajudar na criação de personagens ou consulta de regras. Em inglês.</p>
+<p><a href="https://fondationdraco.fr/artifacts-rush-santos/city-of-the-saints/santos-in-the-sixth-world/" target="_blank" rel="noopener noreferrer">Santos in the Sixth World</a>: Um resumo extremamente interessante e bem escrito sobre os ultimos 50 anos em Santos, o dos grandes distritos da Metropóle. Em inglês.</p>
+<p><a href="https://pdfslide.net/documents/shadowrun-brasil.html">Shadowrun Brasil</a>: Um velho suplemento fan-made detalhando o cenário do Brasil até 2050. Muito interessante e rico de detalhes.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Rage Across Pindorama</title>
         <author>
