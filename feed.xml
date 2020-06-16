@@ -3,7 +3,7 @@
     <title>Golem</title>
     <link href="https://www.golem.net.br/feed.xml" rel="self" />
     <link href="https://www.golem.net.br" />
-    <updated>2020-06-15T11:25:41+02:00</updated>
+    <updated>2020-06-16T17:55:31+02:00</updated>
     <author>
         <name>rafael</name>
     </author>
@@ -45,19 +45,20 @@
         <link href="https://www.golem.net.br/recursos-shadowrun.html"/>
         <id>https://www.golem.net.br/recursos-shadowrun.html</id>
 
-        <updated>2020-06-14T13:56:28+02:00</updated>
+        <updated>2020-06-16T17:55:13+02:00</updated>
             <summary>
                 <![CDATA[
-                    Chummer 5e: um programa para fazer personagens, essencial para diminuir a enorme complexidade que é a criação de personagens no sistema oficial. Tem versão em português do Brasil, basta mudar nas "options". Omae: Se você não pode suar o Chummer por algum motivo, o Omae&hellip;
+                    Chummer 5e: um programa para fazer personagens, essencial para diminuir a enorme complexidade que é a criação de personagens no sistema oficial. Tem versão em português do Brasil, basta mudar nas "options". Omae: Se você não pode usar o Chummer por algum motivo, o Omae&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p><a href="https://github.com/chummer5a/chummer5a/releases/tag/5.201.0" target="_blank" rel="noopener noreferrer">Chummer 5e:</a> um programa para fazer personagens, essencial para diminuir a enorme complexidade que é a criação de personagens no sistema oficial. Tem versão em português do Brasil, basta mudar nas "options".</p>
-<p><a href="https://heyomae.github.io" target="_blank" rel="noopener noreferrer">Omae</a>: Se você não pode suar o Chummer por algum motivo, o Omae é um gerador baseado no seu browser. Em inglês.</p>
+<p><a href="https://heyomae.github.io" target="_blank" rel="noopener noreferrer">Omae</a>: Se você não pode usar o Chummer por algum motivo, o Omae é um gerador baseado no seu browser. Em inglês.</p>
 <p><a href="http://adragon202.no-ip.org/Shadowrun/index.php/Main_Page" target="_blank" rel="noopener noreferrer">Shadowrun Wiki</a>: Um wiki feito por um mestre que estava cansado de ficar procurando tudo nos livros que, eu concordo, poderiam ser organizados de maneira melhor. Muito legal para ajudar na criação de personagens ou consulta de regras. Em inglês.</p>
-<p><a href="https://fondationdraco.fr/artifacts-rush-santos/city-of-the-saints/santos-in-the-sixth-world/" target="_blank" rel="noopener noreferrer">Santos in the Sixth World</a>: Um resumo extremamente interessante e bem escrito sobre os ultimos 50 anos em Santos, o dos grandes distritos da Metropóle. Em inglês.</p>
+<p><a href="https://fondationdraco.fr/artifacts-rush-santos/city-of-the-saints/santos-in-the-sixth-world/" target="_blank" rel="noopener noreferrer">Santos in the Sixth World</a>: Um resumo extremamente interessante e bem escrito sobre os ultimos 50 anos em Santos, um dos grandes distritos da Metropóle. Em inglês.</p>
 <p><a href="https://pdfslide.net/documents/shadowrun-brasil.html">Shadowrun Brasil</a>: Um velho suplemento fan-made detalhando o cenário do Brasil até 2050. Muito interessante e rico de detalhes.</p>
+<p><a href="https://shadowpunkers.wordpress.com">Shadowpunkers</a>: Uma página bacana sobre Shadowrun totalmente em português com muita informação.</p>
             ]]>
         </content>
     </entry>
