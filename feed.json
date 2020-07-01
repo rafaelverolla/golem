@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://www.golem.net.br/tes-gurps.html",
+            "url": "https://www.golem.net.br/tes-gurps.html",
+            "title": "TES GURPS",
+            "summary": "Click here for the file. I´ve made a small adaptation of the TES universe to GURPS. It is not complete, but mainly I´ve left out enemies and things that are too specific of a game, like shouts that I dont think should be common in&hellip;",
+            "content_html": "<p><a href=\"https://www.golem.net.br/TES_GURPS.pdf\" target=\"_blank\" rel=\"noopener noreferrer\" download=\"download\">Click here for the file.</a></p>\n<p>I´ve made a small adaptation of the TES universe to GURPS. It is not complete, but mainly I´ve left out enemies and things that are too specific of a game, like shouts that I dont think should be common in a TTRPG because they are too powerful.</p>\n<p>Please enjoy!</p>",
+            "author": {
+                "name": "rafael"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-07-01T08:46:34+02:00",
+            "date_modified": "2020-07-01T08:46:34+02:00"
+        },
+        {
             "id": "https://www.golem.net.br/shadowrun-metropole.html",
             "url": "https://www.golem.net.br/shadowrun-metropole.html",
             "title": "Shadowrun: Amazônia",
