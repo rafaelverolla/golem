@@ -3,7 +3,7 @@
     <title>Golem</title>
     <link href="https://www.golem.net.br/feed.xml" rel="self" />
     <link href="https://www.golem.net.br" />
-    <updated>2020-07-01T08:47:19+02:00</updated>
+    <updated>2020-07-01T16:21:57+02:00</updated>
     <author>
         <name>rafael</name>
     </author>
@@ -14,10 +14,10 @@
         <author>
             <name>rafael</name>
         </author>
-        <link href="https://www.golem.net.br/tes-gurps.html"/>
-        <id>https://www.golem.net.br/tes-gurps.html</id>
+        <link href="https://www.golem.net.br/the-elder-scrolls-gurps.html"/>
+        <id>https://www.golem.net.br/the-elder-scrolls-gurps.html</id>
 
-        <updated>2020-07-01T08:46:34+02:00</updated>
+        <updated>2020-07-01T16:21:49+02:00</updated>
             <summary>
                 <![CDATA[
                     Click here for the file. I´ve made a small adaptation of the TES universe to GURPS. It is not complete, but mainly I´ve left out enemies and things that are too specific of a game, like shouts that I dont think should be common in&hellip;
